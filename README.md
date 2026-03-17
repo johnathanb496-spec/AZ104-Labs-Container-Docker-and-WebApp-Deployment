@@ -33,5 +33,6 @@ Troubleshooting real errors
 
 
 ## 📸 Screenshots
-app
+app/2026-03-17 11_55_25-Clipboard.png
+
 
