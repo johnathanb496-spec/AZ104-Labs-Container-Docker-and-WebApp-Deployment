@@ -36,5 +36,6 @@ Troubleshooting real errors
 
 <img width="1510" height="1171" alt="image" src="https://github.com/user-attachments/assets/94a12c66-b81a-43f8-98ff-ee84a2eb219c" />
 <img width="1795" height="1127" alt="image" src="https://github.com/user-attachments/assets/2040beab-d4cf-4646-95e3-04bc27deaa6e" />
+<img width="818" height="191" alt="image" src="https://github.com/user-attachments/assets/2be52d2e-7ecc-4a9e-a4ae-bb58d3045050" />
 
 
