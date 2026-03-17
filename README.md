@@ -33,6 +33,8 @@ Troubleshooting real errors
 
 
 ## 📸 Screenshots
-app/2026-03-17 11_55_25-Clipboard.png
+
+<img width="1510" height="1171" alt="image" src="https://github.com/user-attachments/assets/94a12c66-b81a-43f8-98ff-ee84a2eb219c" />
+
 
 
